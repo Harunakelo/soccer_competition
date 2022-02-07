@@ -88,6 +88,4 @@ function listener(){
 }
 
 
-// task 
-// create players table 
-//
+//this a test
